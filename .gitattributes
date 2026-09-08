@@ -1,0 +1,9 @@
+# Default behavior
+*.svg text  
+*.ts linguist-detectable
+public/index.html linguist-vendored
+*.bat text eol=crlf
+
+node_modules/* linguist-vendored
+*.png binary
+# eof be666061
