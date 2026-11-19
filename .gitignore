@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+.next/
+*.tgz
+.env
+node_modules/
